@@ -4,7 +4,7 @@ Since I make my students create a README, I guess I should too!? 🤷
 I'm a **software developer** and technology **educator**; focused on **front-end** development, **mobile** applications, and **UI/UX** fundamentals. Over the past decade I've helped launch dozens of websites, shipped hundreds of apps/games, and taught _hundreds_ of students about technology / computer science.
 
 - 🚧 [linkedin.com/in/arlin/](https://linkedin.com/in/arlin/)
-- 🚧 [indieweb.social/@fexd](https://indieweb.social/@fexd)
+- 🚧 [hachyderm.io/@FeXd](https://hachyderm.io/@FeXd)
 - 🚧 [fexd.com](https://fexd.com)
 
 ## 📚 Methodologies, Languages, Tools 
