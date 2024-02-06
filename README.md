@@ -1,13 +1,12 @@
-Since I make my students create a README, I guess I should too!? 🤷
-
 # 👋 Arlin Schaffel (he/him) 🚴💨
 I'm a **software developer** and technology **educator**; focused on **front-end** development, **mobile** applications, and **UI/UX** design. Over the past decade I've helped launch dozens of websites, shipped hundreds of apps/games, and taught _hundreds_ of students about technology.
 
-- 🚧 [linkedin.com/in/arlin](https://linkedin.com/in/arlin)
-- 🚧 [hachyderm.io/@FeXd](https://hachyderm.io/@FeXd)
-- 🚧 [fexd.com](https://fexd.com)
+- 💼 [linkedin.com/in/arlin](https://linkedin.com/in/arlin)
+- 🐘 [hachyderm.io/@FeXd](https://hachyderm.io/@FeXd)
+- 🌐 [fexd.com](https://fexd.com)
+- 🎓 [arlin.education](https://arlin.education)
 
-## 📚 Methodologies, Languages, Tools 
+## 🛠️ Methodologies, Languages, Tools 
 I've used a lot of different things over the years. Things in **bold** I'm actively using.
 
 - 📊 **Agile Software Development**, Test Driven Development, **Servant Leadership**, **Adult Learning**, **Clean Code**
